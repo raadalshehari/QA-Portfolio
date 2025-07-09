@@ -19,3 +19,15 @@ This repository contains sample projects created to demonstrate my skills in bot
 
 You can view my professional profile and hire me for your projects on Upwork:
 **[https://www.upwork.com/freelancers/~01fd22486bc08b3815]**
+---
+## Project #2: Testing Complex Forms (DemoQA)
+
+This second project demonstrates testing of more complex user-input forms and interactions.
+
+### 1. Advanced Manual Testing Bug Report
+* **File:** `Bug_Report_DemoQA.pdf`
+* **Description:** This report identifies a critical logic bug in a user registration form with dependent dropdown menus. It demonstrates my ability to test for state management issues and complex user flows.
+
+### 2. Form Automation Script
+* **File:** `test_practice_form.py`
+* **Description:** An automation script using Python and Selenium to interact with various form elements, including text fields, radio buttons, and form submission.
